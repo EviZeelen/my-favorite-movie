@@ -16,6 +16,9 @@
 
     <h3>Evi's favoriete film</h3>
     <p>Evi's favoriete film is Hunger Games, met name deel 1 en 2.</p>
+    
+    <p>Jurgen vindt deze film kut.</p>
+    
     <img src="img/Hungergsames.jpeg" alt="Hunger Games poster">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DqhOzH8QcH4" title="YouTube video player"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
